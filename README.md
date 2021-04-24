@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaelmcclimon
 - 👀 I’m interested in ...Blockchain Technologies
-- 🌱 I’m currently learning ...Solidity and C++
+- 🌱 I’m currently learning ...Solidity 
 - 💞️ I’m looking to collaborate on ...Blockchain projects for businesses.
 - 📫 How to reach me ...mickeymcclimon@gmail.com
 
