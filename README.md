@@ -41,6 +41,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmcclimon&theme=tokyonight&show_icons=true&layout=compact)](https://github.com/michaelmcclimon/github-readme-stats)
 
+<img align="right" alt="GIF" src="Blocckchain-Oriented-Software-Engineering.png" width="410" height="280" />
 
 - 👀 I’m interested in Blockchain Technologies
 - 🌱 I’m currently building a Crypto Kitties Dapp clone
