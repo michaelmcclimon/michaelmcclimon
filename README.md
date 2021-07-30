@@ -9,7 +9,7 @@
 ### 🔨 Tech Stack
 <p>
   <a href="https://docs.soliditylang.org/en/v0.8.4/#" target="_blank"> <img src="./solidity.svg" alt="Solidity" align="left" height='34px'/></a>
-  
+  <img align="left" alt="Ethereum" height ="42px" src="./Ethereum.png">
   <img align="left" alt="Truffle" height ="42px" src="./truffle.svg">
   <img align="left" alt="Hardhat" height ="42px" src="./hardhat.svg">
   <a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height ="42px" src="./react.svg"></a>
