@@ -3,7 +3,7 @@
 
 ## Blockchain Developer 
 
-### Tech Stack
+### 🔨 Tech Stack
 <p>
   
   <img align="left" alt="Hardhat" height ="42px" src="./hardhat.svg">
