@@ -1,4 +1,8 @@
-# Checks-Effects-Interactions!
+# Hello, There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+### Blockchain Developer 
+
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelmcclimon&theme=chartreuse-dark&show_icons=true)
 
 
 
