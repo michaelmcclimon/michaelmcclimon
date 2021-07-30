@@ -26,7 +26,7 @@
 <a href="https://www.npmjs.com/" target="_blank"><img src="./npm.svg" alt="npm" align="left" height='42px'/></a>
 <a href="https://mochajs.org/" target="_blank"><img src="./mochajs.svg" alt="Mocha" align="left" height='42px'/></a>
   <a href="https://nextjs.org/" target="_blank"> <img src="./nextjs.png" alt="Next.js" align="left" height='34px'/></a>
-</p>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -34,7 +34,7 @@
 
 
 <br/>
-<br/>
+
 
 ### 📈 GitHub Stats 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelmcclimon&theme=chartreuse-dark&show_icons=true)
