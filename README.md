@@ -12,6 +12,7 @@
   <img align="left" alt="Ethereum" height ="42px" src="./Ethereum.png">
   <img align="left" alt="Truffle" height ="42px" src="./truffle.svg">
   <img align="left" alt="Hardhat" height ="42px" src="./hardhat.svg">
+  <img align="left" alt="Golang" height ="42px" src="./Golang.png">
   <a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height ="42px" src="./react.svg"></a>
   <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> 
   <img align="left" alt="HTML5" height ="42px" src="./html.svg">
