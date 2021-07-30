@@ -5,7 +5,8 @@
 
 ### 🔨 Tech Stack
 <p>
-  
+  <a href="https://docs.soliditylang.org/en/v0.8.4/#" target="_blank"> <img src="./solidity.svg" alt="Solidity" align="left" height='34px'/></a>
+  <img align="left" alt="Truffle" height ="42px" src="./truffle.svg">
   <img align="left" alt="Hardhat" height ="42px" src="./hardhat.svg">
   
 </p>
@@ -23,7 +24,7 @@
 - 💞️ I’m looking to collaborate on Blockchain projects for businesses.
 
 ### Social Media
-- 📫 How to reach me ...mickeymcclimon@gmail.com
+- 📫 How to contact me? @ ----> mickeymcclimon@gmail.com
 
 <!---
 michaelmcclimon/michaelmcclimon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
