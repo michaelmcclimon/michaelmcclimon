@@ -3,7 +3,8 @@
 ## Blockchain Developer 
 
 ### Tech Stack
-
+<p>
+  <img align="left" alt="Hardhat" height ="42px" src="./hardhat.svg">
 
 ### 📈 GitHub Stats
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelmcclimon&theme=chartreuse-dark&show_icons=true)
