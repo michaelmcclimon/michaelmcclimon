@@ -5,7 +5,7 @@
 ### Tech Stack
 
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelmcclimon&theme=chartreuse-dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmcclimon&theme=tokyonight&show_icons=true&layout=compact)](https://github.com/michaelmcclimon/github-readme-stats)
