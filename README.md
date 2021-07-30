@@ -16,7 +16,7 @@
   <a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height ="42px" src="./react.svg"></a>
   <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
   <img align="left" alt="Chainlink" height ="42px" src="./chainlink.png">
-  <img align="left" alt="Metamask" height ="42px" src="./metamask.png">
+  <img align="left" alt="Metamask" height ="42px" src="./metamask2.png">
   <img align="left" alt="HTML5" height ="42px" src="./html.svg">
   <img align="left" alt="CSS3" height ="42px" src="./css.svg">
   <img align="left" alt="Tailwind CSS" height ="42px" src="./tailwindcss.svg">
@@ -26,13 +26,17 @@
 <a href="https://www.npmjs.com/" target="_blank"><img src="./npm.svg" alt="npm" align="left" height='42px'/></a>
 <a href="https://mochajs.org/" target="_blank"><img src="./mochajs.svg" alt="Mocha" align="left" height='42px'/></a>
   <a href="https://nextjs.org/" target="_blank"> <img src="./nextjs.png" alt="Next.js" align="left" height='34px'/></a>
-
 </p>
 <br/>
 <br/>
 <br/>
 
-### 📈 GitHub Stats
+
+<br/>
+<br/>
+<br/>
+
+### 📈 GitHub Stats 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelmcclimon&theme=chartreuse-dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmcclimon&theme=tokyonight&show_icons=true&layout=compact)](https://github.com/michaelmcclimon/github-readme-stats)
