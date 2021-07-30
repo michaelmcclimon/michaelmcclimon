@@ -1,10 +1,16 @@
 # Hello, There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<p> My name is Michael McClimon and I have been developing on the Blockchain for over six months now and am seeking a full-time role as a Developer. I am currently enrolled in the Ivan On Tech academy where the community behind crypto couldn't be stronger! Learning Solidity, Go, JavaScript I have built real-world Smart Contracts and am currently working on my first Dapp clone. If you're looking for a passionate individual to bring your development team to the next level look no further! </p>
 
 ## Blockchain Developer 
 
 ### Tech Stack
 <p>
+  
   <img align="left" alt="Hardhat" height ="42px" src="./hardhat.svg">
+  
+</p>
+
+
 
 ### 📈 GitHub Stats
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelmcclimon&theme=chartreuse-dark&show_icons=true)
