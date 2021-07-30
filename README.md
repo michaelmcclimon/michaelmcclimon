@@ -20,7 +20,7 @@
   <img align="left" alt="HTML5" height ="42px" src="./html.svg">
   <img align="left" alt="CSS3" height ="42px" src="./css.svg">
   <img align="left" alt="Tailwind CSS" height ="42px" src="./tailwindcss.svg">
-  <a href="https://web3js.readthedocs.io/en/v1.3.4/" target="_blank"> <img src="./web3js.svg" alt="Web3.js" align="left" height='34px'/></a>
+  <img align="left" alt="JavaScript" height ="42px" src="./javascript.svg">
   <img align="left" alt="REST APIs" height ="42px" src="./api.svg">
   <a href="https://ubuntu.com/" target="_blank"><img src="./ubuntu.svg" alt="Ubuntu" align="left" height='36px'/></a>
 <a href="https://www.npmjs.com/" target="_blank"><img src="./npm.svg" alt="npm" align="left" height='42px'/></a>
