@@ -4,11 +4,12 @@
 <br/>
 
 ## Blockchain Developer 
-<img align="right" alt="GIF" src="blockchain-use-cases" width="410" height="280" />
+<img align="right" alt="GIF" src="blockchain-use-cases.png" width="410" height="280" />
 
 ### 🔨 Tech Stack
 <p>
   <a href="https://docs.soliditylang.org/en/v0.8.4/#" target="_blank"> <img src="./solidity.svg" alt="Solidity" align="left" height='34px'/></a>
+  
   <img align="left" alt="Truffle" height ="42px" src="./truffle.svg">
   <img align="left" alt="Hardhat" height ="42px" src="./hardhat.svg">
   <a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height ="42px" src="./react.svg"></a>
@@ -21,6 +22,7 @@
   <a href="https://ubuntu.com/" target="_blank"><img src="./ubuntu.svg" alt="Ubuntu" align="left" height='36px'/></a>
 <a href="https://www.npmjs.com/" target="_blank"><img src="./npm.svg" alt="npm" align="left" height='42px'/></a>
 <a href="https://mochajs.org/" target="_blank"><img src="./mochajs.svg" alt="Mocha" align="left" height='42px'/></a>
+  <a href="https://nextjs.org/" target="_blank"> <img src="./nextjs.png" alt="Next.js" align="left" height='34px'/></a>
 
 </p>
 <br/>
