@@ -63,6 +63,7 @@
 
 - 📫 How to contact me? @ ----> mickeymcclimon@gmail.com
 
+Fun Fact: I Love Formula 1! 
 
 <!---
 michaelmcclimon/michaelmcclimon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
