@@ -3,7 +3,6 @@
 <br/> 
 
 
-
 <img align="right" alt="GIF" src="blockchain-use-cases.png" width="410" height="280" />
 
 ### 🔨 Tech Stack
