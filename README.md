@@ -62,7 +62,7 @@
 
 - 📫 How to contact me? @ ----> mickeymcclimon@gmail.com
 
-Fun Fact: I Love Formula 1! 
+Fun Fact: I Love Formula 1, and I am a Fan token holder of Aston Martin F1 team and Alfa Romeo F1 team! 
 
 <!---
 michaelmcclimon/michaelmcclimon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
