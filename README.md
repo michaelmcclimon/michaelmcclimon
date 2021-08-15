@@ -42,9 +42,19 @@ My goal is to lead by example and empower others to learn blockchain development
 
 <img align="right" alt="GIF" src="Blockchain-Oriented-Software-Engineering.png" width="410" height="280" />
 
-- 👀 I’m interested in Blockchain Technologies
-- 🌱 I’m currently building a Crypto Kitties Dapp clone
-- 💞️ I’m looking to collaborate on Blockchain projects for businesses.
+## Blockchain Certifications:
+C++ Programming For Blockchain Developers<br>
+Blockchain & Bitcoin 101<br>
+Blockchain Business Masterclass<br>
+Ethereum 101<br>
+Ethereum Dapp Programming<br>
+Ethereum Programming 101<br>
+Ethereum Smart Contract Programming 101<br>
+Ethereum Smart Contract Programming 201<br>
+Defi 101<br>
+Git & GitHub Ultimate<br>
+Go Programming Certification<br>
+Javascript Programming For Blockchain Developers<br>
  ### Social Media 
 <a href="https://www.linkedin.com/in/michael-mcclimon-a949471b7/" target="_blank">
   <img src="./LinkedIn.png" align="left" alt="Michael's LinkedIn" width="22px">
