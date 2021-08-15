@@ -1,5 +1,7 @@
 # Blockchain Engineer Here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- My name is Michael McClimon and I have been developing on the Ethereum network and building Smart contracts and Dapps for the new ecosystem. If you would like to work on a project just reach out to me at  mickeymcclimon@gmail.com. I am currently enrolled in the Ivan On Tech academy where the community behind crypto couldn't be stronger! Learning Solidity, Go, JavaScript I have built real-world Smart Contracts and am currently working on my first Dapp clone. If you're looking for a passionate individual to bring your development team to the next level look no further! 
+ My name is Michael McClimon and I have been developing on the Ethereum network and building Smart contracts and Dapps for the new ecosystem. If you would like to work on a project just reach out to me at  mickeymcclimon@gmail.com. Blockchain technology is something I'm very passionate about. The way this technology works is so clear to me that it will significantly impact every aspect of our lives one day.
+
+My goal is to lead by example and empower others to learn blockchain development. Lifelong learning and humility are important to me. Like a sponge, I strive to constantly achieve greater heights, set myself challenging goals, and absorb as much as I can. 
 <br/> 
 
 
