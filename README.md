@@ -34,7 +34,6 @@ My goal is to lead by example and empower others to learn blockchain development
 
 <br/>
 
-
 ### 📈 GitHub Stats 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelmcclimon&theme=chartreuse-dark&show_icons=true)
 
