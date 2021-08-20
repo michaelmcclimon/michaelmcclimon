@@ -70,7 +70,7 @@ Javascript Programming For Blockchain Developers<br>
 
 ![visitors](https://page-views.glitch.me/badge?page_id=michaelmcclimon.visitor-badge)
 
-- 📫 How to contact me? @ ----> mickeymcclimon@gmail.com Looking forward to hearing from you!
+- 📫 How to contact me? @ ----> mickeymcclimon@gmail.com ; Looking forward to hearing from you!
 
 Fun Fact: I love Formula 1, and I am a Fan Token holder of Aston Martin F1 team and Alfa Romeo F1 team! 
 Also own Arsenal FC (AFC) Tokens. 
