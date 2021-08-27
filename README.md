@@ -50,7 +50,7 @@ Ethereum Programming 101<br>
 Ethereum Smart Contract Programming 101<br>
 Ethereum Smart Contract Programming 201<br>
 Defi 101<br>
-Git & GitHub Ultimate<br>
+GitHub Ultimate: Master Git and GitHub - Beginner to Expert<br>
 Go Programming Certification<br>
 Javascript Programming For Blockchain Developers<br>
 In Progress: => React 101 Web Development<br>
