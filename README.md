@@ -4,9 +4,9 @@
 My goal is to lead by example and empower others to learn blockchain development. Lifelong learning and humility are important to me. Like a sponge, I strive to constantly achieve greater heights, set myself challenging goals, and absorb as much as I can. 
 <br/>   
 
-<img align="right" alt="GIF" src="blockchain-use-cases.png" width="410" height="280" />
+<img align="right" alt="GIF" src="blockchain-use-cases.png" width="410" height="280" /> 
 
-### 🔨 Tech Stack
+### 🔨 Tech Stack 
 
   <a href="https://docs.soliditylang.org/en/v0.8.4/#" target="_blank"> <img src="./solidity.svg" alt="Solidity" align="left" height='34px'/></a>
   <img align="left" alt="Ethereum" height ="42px" src="./Ethereum.png">
