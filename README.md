@@ -67,7 +67,7 @@ In Progress: => React 101 Web Development<br>
 <a href="https://twitter.com/McclimonMichael" target="_blank">
   <img src="./Twitter.png" align="left" alt="Michael's Twitter" width="22px">
 </a>
-
+ 
 ![visitors](https://page-views.glitch.me/badge?page_id=michaelmcclimon.visitor-badge)
 
 - 📫 How to contact me? @ ----> mickeymcclimon@gmail.com ; I look forward to hearing from you!
