@@ -3,7 +3,7 @@
 
 My goal is to lead by example and empower others to learn blockchain development. Lifelong learning and humility are important to me. Like a sponge, I strive to constantly achieve greater heights, set myself challenging goals, and absorb as much as I can. 
 <br/>    
-<br/> ## Chainlink Developer Expert </br>
+<br/> ##Chainlink Developer Expert </br>
 <img align="right" alt="GIF" src="blockchain-use-cases.png" width="410" height="280" /> 
 
 ### 🔨 Tech Stack 
