@@ -5,7 +5,7 @@ My goal is to lead by example and empower others to learn blockchain development
 <br/>      
  
 <img align="right" alt="GIF" src="blockchain-use-cases.png" width="410" height="280" /> 
-
+ 
 ### 🔨 Tech Stack 
 
   <a href="https://docs.soliditylang.org/en/v0.8.4/#" target="_blank"> <img src="./solidity.svg" alt="Solidity" align="left" height='34px'/></a>
