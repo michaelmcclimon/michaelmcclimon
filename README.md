@@ -28,7 +28,7 @@ My goal is to lead by example and empower others to learn blockchain development
   <a href="https://nextjs.org/" target="_blank"> <img src="./nextjs.png" alt="Next.js" align="left" height='34px'/></a>
 <br/>
 <br/>
-<br/> 
+<br/>  
 <br/>
   
 <br/> 
