@@ -66,7 +66,7 @@ In Progress: => React 101 Web Development<br>
 </a>
 <a href="https://twitter.com/McclimonMichael" target="_blank">
   <img src="./Twitter.png" align="left" alt="Michael's Twitter" width="22px">
-</a>  
+</a>   
  
 ![visitors](https://page-views.glitch.me/badge?page_id=michaelmcclimon.visitor-badge)
 
