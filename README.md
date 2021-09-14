@@ -52,7 +52,7 @@ Ethereum Smart Contract Programming 201<br>
 Defi 101<br>
 GitHub Ultimate: Master Git and GitHub - Beginner to Expert<br>
 Go Programming Certification<br>
-Javascript Programming For Blockchain Developers<br>
+Javascript Programming For Blockchain Developers<br> 
 In Progress: => React 101 Web Development<br>
  ### Social Media 
 <a href="https://www.linkedin.com/in/michael-mcclimon-a949471b7/" target="_blank">
