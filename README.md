@@ -2,7 +2,7 @@
  My name is Michael McClimon and I have been developing on the Ethereum network and building Smart contracts and Dapps for the new ecosystem. If you would like to work on a project just reach out to me at  mickeymcclimon@gmail.com. Blockchain technology is something I'm very passionate about. The way this technology works is so clear to me that it will significantly impact every aspect of our lives one day.     
          
 My goal is to lead by example and empower others to learn blockchain development. Lifelong learning and humility are important to me. Like a sponge, I strive to constantly achieve greater heights, set myself challenging goals, and absorb as much as I can. 
-<br/>           
+<br/>            
   
 <img align="right" alt="GIF" src="blockchain-use-cases.png" width="410" height="280" /> 
 
