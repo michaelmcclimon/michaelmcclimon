@@ -16,7 +16,7 @@ My goal is to lead by example and empower others to learn blockchain development
   <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
   <img align="left" alt="Chainlink" height ="42px" src="./chainlink.png">
   <img align="left" alt="Metamask" height ="42px" src="./metamask2.png">
-  <img align="left" alt="HTML5" height ="42px" src="./html.svg">
+  <img align="left" alt="HTML5" height ="42px" src="./html.svg"> 
   <img align="left" alt="CSS3" height ="42px" src="./css.svg"> 
   <img align="left" alt="Tailwind CSS" height ="42px" src="./tailwindcss.svg">
   <img align="left" alt="JavaScript" height ="42px" src="./javascript.svg"> 
